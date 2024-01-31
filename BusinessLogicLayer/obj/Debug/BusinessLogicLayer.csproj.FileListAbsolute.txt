@@ -1,0 +1,21 @@
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Khosro\Desktop\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\desktop\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\desktop\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\desktop\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\desktop\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\desktop\Dorm\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\desktop\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\desktop\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Project\Curent Project\Dorm\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

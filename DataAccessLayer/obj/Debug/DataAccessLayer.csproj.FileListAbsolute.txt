@@ -1,0 +1,22 @@
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khosro\Desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\desktop\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\desktop\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\desktop\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Project\Curent Project\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Project\Curent Project\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Project\Curent Project\Dorm\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Curent Project\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Project\Curent Project\Dorm\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Project\Curent Project\Dorm\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config

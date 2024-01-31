@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessLogicLayer.AddressBook" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAAAAAAAAAAAAAAAAAEIAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AddressBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicLayer.Manager" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAgAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BusinessLogicLayer.Room" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEgIACAAAAAAAAAAAAAAAEgIAAACAAAAAAEAAAA=</HashCode>
+      <FileName>Classes\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicLayer.Student" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAIAAgEAAEABAAAAAAEIAQACAAAAAAEEAAA=</HashCode>
+      <FileName>Classes\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicLayer.Term" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAFAAAA=</HashCode>
+      <FileName>Classes\Term.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicLayer.User" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicLayer.Eperator" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAIAAAAAAAAAAAAAAgAAAEIEAADAQAQAAEAAAA=</HashCode>
+      <FileName>Classes\Eperator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

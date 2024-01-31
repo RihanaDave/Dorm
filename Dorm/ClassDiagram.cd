@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PresentationLayer.DateTimeHelper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DateTimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.GeneralValidation" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Classes\GeneralValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.Program" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.RegistryHelper" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAABAAgAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RegistryHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmAboutUs" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAECAAABAACACAAAACACAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Forms\frmAboutUs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmAccessLevel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABACAMAAACAACIAcgCAgAAAGIEACACARAAACA=</HashCode>
+      <FileName>Forms\frmAccessLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmAddressBook" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAMGNECAQKNUACACTAEQCQCC455kgQCASAQLSIQQ=</HashCode>
+      <FileName>Forms\frmAddressBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmBackupRestore" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAADAAgBkACAGCAEACACIAAAABAgwAARABAAA=</HashCode>
+      <FileName>Forms\frmBackupRestore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmCensus" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABECABCBAAAACAAAACACAAAAABACAAAQAAQCA=</HashCode>
+      <FileName>Forms\frmCensus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmChangePassword" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEJACAAABFACACAAMACACAAAEAAgCAQAQEAAQA=</HashCode>
+      <FileName>Forms\frmChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmChangeRoom" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAMAABACAAABEAAACABMACAAAACEAAACAACQACAAA=</HashCode>
+      <FileName>Forms\frmChangeRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmDebtorsList" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABECARKxiAAACAAAACAGC4Z4gCAAAAQQACIAQ=</HashCode>
+      <FileName>Forms\frmDebtorsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmDevice" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAGHECAQCNEACAKKAEAiACA4hBgAAKAQAQIAgQQ=</HashCode>
+      <FileName>Forms\frmDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmLogin" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAQACAAABMACICAAEACICAACAAAACAQAwBAAAA=</HashCode>
+      <FileName>Forms\frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmMain" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAQGAQGhDQgHzrQEACAASAGADSJcISSBBWMCAAlAJo=</HashCode>
+      <FileName>Forms\frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmNewRegistration" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wACMAAREDEBsBQQCACCBIACKSAAoBwgAAITIYwQgDQ=</HashCode>
+      <FileName>Forms\frmNewRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmOldRegistration" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAGBEDARuhAQCAiCAIAGKSA4I5wAAAIBYQwSACA=</HashCode>
+      <FileName>Forms\frmOldRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmPayment" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAGBkDAROhAUCACCAIACKSA4JRwAAAIBYQATgCA=</HashCode>
+      <FileName>Forms\frmPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmPaymentList" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAJECARKxAAAACAAAACAGC4awgCQAAAQSACIAA=</HashCode>
+      <FileName>Forms\frmPaymentList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmRoom" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAGFECARCNAACACKAAACACA4hhgAQGASARKAAEA=</HashCode>
+      <FileName>Forms\frmRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmStudent" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAAEAWckCERKtUACACDAEACACC45xAgQCASQYIDoQY=</HashCode>
+      <FileName>Forms\frmStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmStudentPayment" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAABkDABOhAACACCAIACKaAAABwAACMAIQATgCA=</HashCode>
+      <FileName>Forms\frmStudentPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmStudentPaymentList" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAABECABCRAQAACAAAACAGCAZwACAAEAAQACIAA=</HashCode>
+      <FileName>Forms\frmStudentPaymentList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmTerm" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAGEECAYKPIICACKAEACACA4hxgAACASAQICACQ=</HashCode>
+      <FileName>Forms\frmTerm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmUser" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAIGUECAaKNQACACKAEQCBCC45xggAGAwAQIKAQQ=</HashCode>
+      <FileName>Forms\frmUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.frmReciptionPrint" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\frmReciptionPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PresentationLayer.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoaAAAIAAEBAAQAJEQCQARIQEAEAABQAIiBGFaA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
